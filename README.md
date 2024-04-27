@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neha Rana
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neha Rana.
 =================================================================================================================================
 
-AI/ML Enthusiasts, Frontend Web developer, Problem Solver
+AI/ML Enthusiasts, Frontend Developer, Problem Solver
 ---------------------------------------------------------
 
 I am a Pre-final year student at the Institute of Technology, Nirma University, majoring in Computer Science and Engineering. I have been passionate about Technology and development also I am eager to solve real-world problems using those technologies and my knowledge. During my academics, I have participated in hackathons and competitions through which I have gained the skills of team management and leadership. I am doing competitive coding and solved 300+ Problems on codeforces. I am an AI/ML enthusiast and love to learn something new about those technologies. I can effectively organize my work to ensure all deadlines are met. In addition to these, I constantly look forward to bringing innovation to my work. I enjoy meeting new people and learning something new from their perspectives and ideas. I am constantly learning new things every day, which makes me never settle. I'm someone who enjoys stepping out of my comfort zone and embracing the excitement that comes with tackling new and demanding challenges.
