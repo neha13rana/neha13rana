@@ -9,7 +9,7 @@ I am a Pre-final year student at the Institute of Technology, Nirma University, 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rananeha572@gmail.com](mailto:rananeha572@gmail.com)
 * 🧠  I'm learning LangChain, LLM Developing, Full Stack Web Development
-* 🤝  I'm open to collaborating on https://github.com/neha13rana/University_Chatbot-SSIP-NIH-2023-, https://github.com/neha13rana/feedback-processor, https://github.com/neha13rana/Stereotypical-Bias-Analyzer
+* 🤝  I'm open to collaborating on https://github.com/neha13rana/University_Chatbot-SSIP-NIH-2023-, https://github.com/neha13rana/AIcontentdetector, https://github.com/neha13rana/Multimindbot, https://github.com/neha13rana/Cloth-Recommendation-System
 
 
 
