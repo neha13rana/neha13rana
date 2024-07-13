@@ -11,7 +11,9 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 * 🧠  I'm learning LangChain, LLM Developing, Full Stack Web Development
 * 🤝  I'm open to collaborating on https://github.com/neha13rana/University_Chatbot-SSIP-NIH-2023-, https://github.com/neha13rana/AIcontentdetector, https://github.com/neha13rana/Multimindbot, https://github.com/neha13rana/Cloth-Recommendation-System
 
-https://github-profile-trophy.vercel.app/?username=neha13rana&no-bg=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=neha13rana&no-bg=true)](https://github.com/neha13rana/github-profile-trophy)
+
+
 
 ### Skills
 
