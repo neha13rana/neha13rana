@@ -13,6 +13,7 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neha13rana)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=neha13rana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Skills
 
