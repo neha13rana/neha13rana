@@ -12,7 +12,8 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 * ✉️  You can contact me at [rananeha572@gmail.com](mailto:rananeha572@gmail.com)
 * 🧠  I'm learning LangChain, LLM Developing, Full Stack Web Development
 * 🤝  I'm open to collaborating on https://github.com/neha13rana/University_Chatbot-SSIP-NIH-2023-, https://github.com/neha13rana/AIcontentdetector, https://github.com/neha13rana/Multimindbot, https://github.com/neha13rana/Cloth-Recommendation-System
-  
+
+### Badges
 [![trophy](https://github-profile-trophy.vercel.app/?username=neha13rana&theme=radical)](https://github.com/neha13rana/github-profile-trophy)
 
 
@@ -29,16 +30,17 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 
 <p align="left"> <a href="https://discord.com/users/Neha Rana#1008" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/neha13rana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/neha.rana.13/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/neha-rana-ba9212248/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@nain.298713" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@neha.rana.13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
+## GitHub Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=neha13rana&show_icons=true&theme=radical)](https://github.com/neha13rana/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha13rana&layout=compact&theme=radical&langs_count=15)
+## Top Languages and Code Activity
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha13rana&layout=compact&theme=radical&langs_count=15" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neha13rana&theme=radical" alt="Code Activity" width="49%" />
+</div>
 
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=neha13rana&theme=radical)
-
-![Code Activity](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neha13rana&theme=radical)
-
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neha13rana&theme=radical)
 
 
 
