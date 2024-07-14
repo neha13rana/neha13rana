@@ -42,7 +42,7 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 
 <a href="https://github.com/neha13rana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha13rana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Neha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neha13rana&theme=dracula)](https://github.com/neha13rana/github-readme-activity-graph)
+[![Neha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neha13rana&theme=github-compact)](https://github.com/neha13rana/github-readme-activity-graph)
 
 
 
