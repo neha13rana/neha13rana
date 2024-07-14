@@ -35,8 +35,6 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha13rana&layout=compact&theme=radical&langs_count=15)
 
-![GitHub Commit Activity](https://github-readme-stats.vercel.app/api/commits/yearly?username=neha13rana&theme=radical)
-
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=neha13rana&theme=radical)
 
 
