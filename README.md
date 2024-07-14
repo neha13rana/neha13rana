@@ -39,7 +39,12 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 
 ![Code Activity](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neha13rana&theme=radical)
 
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=neha13rana&theme=radical" alt="Pull Requests" width="23%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=neha13rana&theme=radical" alt="Commits" width="23%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=neha13rana&theme=radical" alt="Issues" width="23%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/code-reviews?username=neha13rana&theme=radical" alt="Code Reviews" width="23%" />
+</div>
 
 
 
