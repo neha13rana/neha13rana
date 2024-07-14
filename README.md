@@ -12,8 +12,8 @@ I am a final year student at the Institute of Technology, Nirma University, majo
 * ✉️  You can contact me at [rananeha572@gmail.com](mailto:rananeha572@gmail.com)
 * 🧠  I'm learning LangChain, LLM Developing, Full Stack Web Development
 * 🤝  I'm open to collaborating on https://github.com/neha13rana/University_Chatbot-SSIP-NIH-2023-, https://github.com/neha13rana/AIcontentdetector, https://github.com/neha13rana/Multimindbot, https://github.com/neha13rana/Cloth-Recommendation-System
-* 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neha13rana)](https://github.com/neha13rana/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=neha13rana&theme=radical)](https://github.com/neha13rana/github-profile-trophy)
 
 
 
