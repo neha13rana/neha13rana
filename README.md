@@ -37,7 +37,7 @@ Feel free to reach out if you have any questions or just want to chat!
 ### Badges
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=neha13rana&show_icons=true&theme=radical)](https://github.com/neha13rana/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha13rana&layout=compact&theme=radical&langs_count=15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha13rana&layout=compact&theme=radical&langs_count=10)
 
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=neha13rana&theme=radical)
 
