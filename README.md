@@ -66,8 +66,8 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cassandra-colored.svg" width="36" height="36" alt="Cassandra" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cassandra" />
 </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios-filled/50/null/artificial-intelligence.png" width="36" height="36" alt="LangChain" />
