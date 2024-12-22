@@ -45,11 +45,11 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django" />
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask" />
 </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="36" height="36" alt="Streamlit" />
@@ -72,8 +72,8 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios-filled/50/null/artificial-intelligence.png" width="36" height="36" alt="LangChain" />
 </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=photoshop" />
 </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/canva-white.svg" width="36" height="36" alt="Canva" />
