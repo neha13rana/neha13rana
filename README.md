@@ -69,14 +69,8 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cassandra" />
 </a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/null/artificial-intelligence.png" width="36" height="36" alt="LangChain" />
-</a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=photoshop" />
-</a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/canva-white.svg" width="36" height="36" alt="Canva" />
 </a>
 </p>
 
