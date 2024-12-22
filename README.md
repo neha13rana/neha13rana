@@ -49,7 +49,7 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-white.svg" width="36" height="36" alt="Flask" />
 </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="36" height="36" alt="Streamlit" />
@@ -67,18 +67,17 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cassandra.apache.org/_/img/cassandra-logo.png" width="36" height="36" alt="Cassandra" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cassandra-colored.svg" width="36" height="36" alt="Cassandra" />
 </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/null/artificial-intelligence.png" width="36" height="36" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/langchain-white.svg" width="36" height="36" alt="LangChain" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
 </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Canva_Logo_2021.svg" width="36" height="36" alt="Canva" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/canva-white.svg" width="36" height="36" alt="Canva" />
 </a>
-
 </p>
 
 
