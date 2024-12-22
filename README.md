@@ -45,11 +45,11 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django" />
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
 </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask" />
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
 </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="36" height="36" alt="Streamlit" />
