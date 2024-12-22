@@ -39,23 +39,23 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
 </a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
 </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/streamlit-colored.svg" width="36" height="36" alt="Streamlit" />
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="36" height="36" alt="Streamlit" />
 </a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/keras-colored.svg" width="36" height="36" alt="Keras" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" />
 </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
@@ -67,20 +67,18 @@ My name is Neha Rana, and I am a final-year CSE student at the Institute of Tech
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cassandra-colored.svg" width="36" height="36" alt="Cassandra" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  <img src="https://cassandra.apache.org/_/img/cassandra-logo.png" width="36" height="36" alt="Cassandra" />
 </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/langchain-colored.svg" width="36" height="36" alt="LangChain" />
+  <img src="https://img.icons8.com/ios-filled/50/null/artificial-intelligence.png" width="36" height="36" alt="LangChain" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
 </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/canva-colored.svg" width="36" height="36" alt="Canva" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Canva_Logo_2021.svg" width="36" height="36" alt="Canva" />
 </a>
+
 </p>
 
 
