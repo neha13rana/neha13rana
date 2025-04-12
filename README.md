@@ -12,12 +12,12 @@ Currently, I am working at REConnect Energy as an AI Intern. Here, my work invol
  
 Throughout my academic journey, I have actively participated in various hackathons and coding competitions. This has not only enhanced my technical knowledge but also boosted my team management and leadership skills. The highlight of it includes becoming finalist in SSIP New India Vibrant Hackathon’23, Our project selection for merging with the website of Education Department, Government of Gujarat in SSIP New India Vibrant Hackathon’23.  
 
-To strengthen my DSA and problem-solving skills, I have been practicing problems on Codeforces with over 400+ problems solved till now. I have also built various projects and gained skills in Generative AI, Deep Learning, NLP, Machine Learning, Django, Flask, Streamlit, Langchain, MongoDB, Git, etc. In these projects, I have used the concepts of core subjects like Object Oriented Programming, Operating System, Cryptographic Algorithm, DBMS, etc.  I am also proficient with programming languages like Python, C++, C, JavaScript, HTML, and CSS.
+To strengthen my DSA and problem-solving skills, I have been practicing problems on Codeforces with over 400+ problems solved till now. I have also built various projects and gained skills in Generative AI, Deep Learning, NLP, Machine Learning, Django, Flask, Streamlit, Langchain, MongoDB, Git, etc. In these projects, I have used the concepts of core subjects like Object Oriented Programming, Operating System, Cryptographic Algorithm, DBMS, etc.  I am also proficient with programming languages like Python, C++, C, JavaScript, HTML, and CSS. In my free time, I enjoy diary journaling, reading, photography, and painting.
 
 ## My Portfolio
 Check out my personal portfolio: [https://neha-rana-portfolio.lovable.app/](https://neha-rana-portfolio.lovable.app/) 
 ---
-In my free time, I enjoy diary journaling, reading, photography, and painting.
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rananeha572@gmail.com](mailto:rananeha572@gmail.com)
