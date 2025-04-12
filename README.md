@@ -16,8 +16,8 @@ To strengthen my DSA and problem-solving skills, I have been practicing problems
 
 ## My Portfolio
 Check out my personal portfolio: [https://neha-rana-portfolio.lovable.app/](https://neha-rana-portfolio.lovable.app/) 
-
-## In my free time, I enjoy diary journaling, reading, photography, and painting.
+---
+In my free time, I enjoy diary journaling, reading, photography, and painting.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rananeha572@gmail.com](mailto:rananeha572@gmail.com)
