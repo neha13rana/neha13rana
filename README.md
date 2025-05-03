@@ -3,7 +3,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 ![](https://komarev.com/ghpvc/?username=neha13rana&color=dc143c&style=plastic)
 =================================================================================================================================
 
-AI/ML Enthusiasts, Web Developer, Problem Solver
+AI/ML, Problem Solver, competitive Coder
 ---------------------------------------------------------
 
 I am Neha Rana, a final year student at the Institute of Technology, Nirma University, majoring in Computer Science and Engineering. I am passionate about developing technology and am always eager to solve real-world problems by combining knowledge and innovation. 
