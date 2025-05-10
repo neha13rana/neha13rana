@@ -104,8 +104,7 @@ Feel free to reach out if you have any questions or just want to chat!
 
 ![Code Activity](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neha13rana&theme=radical)
 
-[GitHub Foundations by GitHub](https://www.credly.com/badges/66708f26-6633-4fe0-af5a-a37740a38762/public_url)  
-  <img src="https://images.credly.com/size/340x340/images/5e6ddf3e-d58c-493c-a7d0-7b05e6d58e17/github-foundations.png" alt="GitHub Foundations Badge" width="150"/>
+![GitHub Foundations by GitHub (Credly)](https://www.credly.com/badges/66708f26-6633-4fe0-af5a-a37740a38762/public_url)
 
 
 
