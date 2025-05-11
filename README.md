@@ -116,21 +116,8 @@ Feel free to reach out if you have any questions or just want to chat!
 [![Neha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neha13rana&theme=react-dark)](https://github.com/neha13rana/github-readme-activity-graph)
 
 
-## 🖤 Support My Work
-
-If you like my work, consider giving a ⭐ to my repositories or buying me a coffee ☕:
-
-<p align="center">
-  <a href="https://buymeacoffee.com/your-profile">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown" />
-</p>
 
 
