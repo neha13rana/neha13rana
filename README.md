@@ -6,6 +6,10 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+❤️+coding+and+problem-solving!" />
 </p>
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding Fun" width="300" />
+</p>
 
 
 AI/ML, Problem Solver, competitive Coder
