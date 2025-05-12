@@ -3,9 +3,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 ![](https://komarev.com/ghpvc/?username=neha13rana&color=dc143c&style=plastic)
 =================================================================================================================================
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding Fun" width="300" />
-</p>
 
 
 AI/ML, Problem Solver, competitive Coder
