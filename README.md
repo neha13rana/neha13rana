@@ -2,7 +2,7 @@
  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A931EC&center=true&vCenter=true&width=500&lines=CTO+@+Aethenix;Building+Intelligent+Systems;Tech+Leadership" alt="Typing SVG" />
 
-  <h3>CTO @ Aethenix | CSE Undergrad '25 | ITNU</h3>
+  <h3>CTO @ Aethenix | CSE Undergrad '25 | Nirma University</h3>
 
   <p>
     <a href="https://neha-rana-portfolio.vercel.app/">
