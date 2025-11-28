@@ -33,7 +33,7 @@ At Aethenix, I lead the architecture and development of high-impact solutions. M
 
 * **Architecture & Design:** Specializing in High-Level (HLD) and Low-Level (LLD) System Design for scalable applications.
 * **Product Engineering:** Transforming ideas into reality through rapid **MVP Development** and **Prototyping** for early-stage startups.
-* **Development Ecosystem:** Overseeing **Custom Software**, **Full-Stack**, and **Application Development** pipelines.
+* **Development Ecosystem:** Overseeing and developing**Custom Software**, **Full-Stack**, **Application Development** and **Intelligent Systems**.
 * **Infrastructure:** Building resilient **Cloud Infrastructure** and ensuring long-term **Service & Maintenance** reliability.
 
 ---
