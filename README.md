@@ -125,7 +125,4 @@ My work is dedicated to driving technological advancement and social progress by
   <a href="https://codeforces.com/profile/Neha.Rana">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://linktr.ee/neha13rana">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
 </div>
