@@ -21,7 +21,7 @@
 
 ### 👩‍💻 Executive Profile
 
-I am the **Chief Technology Officer at Aethenix**, driving technical strategy and innovation. My focus is on bridging the gap between complex engineering and scalable business value. I specialize in overseeing **End-to-End Product Engineering**—from conceptual **Prototype Design** to robust **Cloud Infrastructure**.
+I am the **Chief Technology Officer at Aethenix**, driving technical strategy and innovation. My focus is on bridging the gap between complex engineering and scalable business value. I specialize in overseeing **End-to-End Product Engineering** from conceptual **Prototype Design** to robust **Cloud Infrastructure**.
 
 My mission is to deliver **AI Enablement & Digital Empowerment** across generations, ensuring that technology is accessible, scalable, and transformative.
 
